@@ -1,0 +1,6 @@
+16:34:37 **** Incremental Build of configuration Default for project team-L-first_project ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:34:38 Build Finished. 0 errors, 0 warnings. (took 865ms)
+
