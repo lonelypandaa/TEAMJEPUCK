@@ -20,7 +20,7 @@ int main(void)
     /* Infinite loop. */
     while (1) {
     	//waits 1 second
-        chThdSleepMilliseconds(1000);
+        chThdSleepMilliseconds(2000);
     }
 }
 
